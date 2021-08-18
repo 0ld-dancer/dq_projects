@@ -35,6 +35,8 @@ Basic script.
 
 ### [14. A Handwritten Digits Classifier (ENG)](https://github.com/0ld-dancer/dq_projects/blob/main/14.%20A%20Handwritten%20Digits%20Classifier/digits_classifier.ipynb)
 
+I applied KNN and MLP classifier to the built-n sklearn handwritten digits data set. Explored how NN works with different hyperparameters and L2 regulariation.
+
 ## SQL
 
 ### [1. Analyzing CIA Factbook Data Using SQL (ENG)](https://github.com/0ld-dancer/dq_projects/blob/main/SQL%20projects/1.%20Analyzing%20CIA%20Factbook%20Data%20Using%20SQL/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb)
