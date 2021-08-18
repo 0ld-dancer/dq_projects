@@ -1,7 +1,7 @@
 # Dataquest guided projects
 Here I keep my guided projects from [dataquest](https://www.dataquest.io/).
 
-Here is [my account](https://app.dataquest.io/profile/3axap92) aswell.
+Here is [my account](https://app.dataquest.io/profile/3axap92) as well.
 
 ## Python
 
