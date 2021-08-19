@@ -35,7 +35,7 @@ Basic script.
 
 ### [14. A Handwritten Digits Classifier (ENG)](https://github.com/0ld-dancer/dq_projects/blob/main/14.%20A%20Handwritten%20Digits%20Classifier/digits_classifier.ipynb)
 
-I applied KNN and MLP classifier to the built-n sklearn handwritten digits data set. Explored how NN works with different hyperparameters and L2 regulariation.
+  I applied [`KNeighborsClassifier()`](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html) and [`MLPClassifier()`](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html) to the built-n sklearn handwritten digits data set from [`load_digits()`](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html). Explored how NN works with different hyperparameters and L2 regulariation. I used manually hyperparameters iteration and [`GridSearchCV()`](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html). Finally I visualized MLP weights.
 
 ## SQL
 
