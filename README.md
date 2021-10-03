@@ -40,6 +40,14 @@ Basic script.
 ### [16. Finding the Best Markets to Advertise In (ENG)](https://github.com/0ld-dancer/dq_projects/blob/main/16.%20Finding%20the%20Best%20Markets%20to%20Advertise%20In/the_best_markets.ipynb)
 
  In this project I've been working in a e-learning company and looking for the best markets (countries) to advertise in. Two criterias for our searches were number of potential students and money spent on learning on average. As data set I've used [freeCodeCamp's 2017 New Coder Survey](https://www.freecodecamp.org/news/we-asked-20-000-people-who-they-are-and-how-theyre-learning-to-code-fff5d668969/) results.
+ 
+### [17. Mobile App for Lottery Addiction (ENG)](https://github.com/0ld-dancer/dq_projects/blob/main/17.%20Mobile%20App%20for%20Lottery%20Addiction/lottery_addiction.ipynb)
+
+ In this project I've been helping a medical institute with the app. Using combinations and probability formulas I've written functions that allow to:
+* find the probability of winning the big prize with a single ticket
+* check whether a certain combination has occurred in the Canada lottery
+* find the probability for any number of of tickets between 1 and 13,983,816
+* find the probability of having 2, 3, 4 or 5 winning numbers exactly
 
 ## SQL
 
