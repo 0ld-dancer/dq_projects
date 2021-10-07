@@ -49,6 +49,12 @@ Basic script.
 * find the probability for any number of of tickets between 1 and 13,983,816
 * find the probability of having 2, 3, 4 or 5 winning numbers exactly
 
+### [18. Spam Filter with Naive Bayes (ENG)](https://github.com/0ld-dancer/dq_projects/blob/main/18.%20Building%20a%20Spam%20Filter%20with%20Naive%20Bayes/spam_filter.ipynb)
+
+ In this project I've created a simple spam filter using the multinomial Naive Bayes algorithm. The final accuracy is 98.56%.
+ 
+ I've used the data set from [The UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection). It has 5,572 SMS messages classified by humans.
+
 ## SQL
 
 ### [1. Analyzing CIA Factbook Data Using SQL (ENG)](https://github.com/0ld-dancer/dq_projects/blob/main/SQL%20projects/1.%20Analyzing%20CIA%20Factbook%20Data%20Using%20SQL/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb)
