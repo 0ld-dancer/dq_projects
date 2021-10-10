@@ -37,6 +37,12 @@ Basic script.
 
   I applied [`KNeighborsClassifier()`](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html) and [`MLPClassifier()`](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html) to the built-n sklearn handwritten digits data set from [`load_digits()`](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html). Explored how NN works with different hyperparameters and L2 regulariation. I used manually hyperparameters iteration and [`GridSearchCV()`](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html). Finally I visualized MLP weights.
 
+### [15. Investigating Fandango Movie Ratings (ENG)](https://github.com/0ld-dancer/dq_projects/blob/main/15.%20Investigating%20Fandango%20Movie%20Ratings/fandango_ratings.ipynb)
+
+ In this project I've been looking for some chahges in [Fandango's](https://www.fandango.com/) movie rating system after this [article](https://fivethirtyeight.com/features/fandango-movies-ratings/).
+ 
+ But I've ended up only with rating comparison for popular movies releasen in 2015 and 2016 due to data sets from this [Github repository](https://github.com/mircealex/Movie_ratings_2016_17) weren't representative.
+
 ### [16. Finding the Best Markets to Advertise In (ENG)](https://github.com/0ld-dancer/dq_projects/blob/main/16.%20Finding%20the%20Best%20Markets%20to%20Advertise%20In/the_best_markets.ipynb)
 
  In this project I've been working in a e-learning company and looking for the best markets (countries) to advertise in. Two criterias for our searches were number of potential students and money spent on learning on average. As data set I've used [freeCodeCamp's 2017 New Coder Survey](https://www.freecodecamp.org/news/we-asked-20-000-people-who-they-are-and-how-theyre-learning-to-code-fff5d668969/) results.
