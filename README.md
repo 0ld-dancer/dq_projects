@@ -7,11 +7,27 @@ Here is [my account](https://app.dataquest.io/profile/3axap92) as well.
 
 ### [1. Profitable App Profiles for the App Store and Google Play Markets (RU)](https://github.com/0ld-dancer/dq_projects/blob/main/1.%20Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets/profitable_apps.ipynb)
 
+ In this project I've been working as data analysts for a company that builds Android and iOS mobile apps. The main goal was to analyze data to help our developers understand what type of free apps are likely to attract more users. I used these two data sets from Kaggle: for [AppStore](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps) and for [GooglePlay](https://www.kaggle.com/lava18/google-play-store-apps).
+
+ No libraries were usen in this project. Pure python only.
+
 ### [2. Exploring Hacker News Posts (RU)](https://github.com/0ld-dancer/dq_projects/blob/main/2.%20Exploring%20Hacker%20News%20Posts/hacker_news.ipynb)
+
+ In this projest I've analyzed popularyty of two post types on [Hacker News](https://news.ycombinator.com/): ask and show. I've explored distribution of comments over time to find the best time for posting. The data set is also from [Kaggle](https://www.kaggle.com/hacker-news/hacker-news-posts).
+
+ The `datetime` library was used.
 
 ### [3. Exploring Ebay Car Sales Data (RU)](https://github.com/0ld-dancer/dq_projects/blob/main/3.%20Exploring%20Ebay%20Car%20Sales%20Data/Exploring%20Ebay%20Car%20Sales%20Data.ipynb)
 
-### [4 .Best College Major (RU)](https://github.com/0ld-dancer/dq_projects/blob/main/4%20.Best%20College%20Major/College_majors.ipynb)
+ I've been working with a dataset of used cars from the [German eBay classifieds](https://data.world/data-society/used-cars-data) in this guided project. The goal was to cleanse and examine this data in an attempt to find some connection between price and brand or mileage.
+
+ The first project with the `numpy` and `pandas`
+
+### [4 .Best College Major (RU)](https://github.com/0ld-dancer/dq_projects/blob/main/4.%20Best%20College%20Major/College_majors.ipynb)
+
+ In this project I've tried to find the best major according to future job hunting and salaries. tThe shares of women and men in different majors were also explored. The data set is provided by [American Community Survey](https://www.census.gov/programs-surveys/acs/).
+ 
+ This project has a lot of plots built with `matplotlib`.
 
 ### [5. Bachelors Degree Women-Men Gap (ENG)](https://github.com/0ld-dancer/dq_projects/blob/main/5.%20Bachelors%20Degree%20Women-Men%20Gap/gender_gap_plots.ipynb)
 
