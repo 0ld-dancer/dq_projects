@@ -19,7 +19,7 @@ Here is [my account](https://app.dataquest.io/profile/3axap92) as well.
 
 ### [3. Exploring Ebay Car Sales Data (RU)](https://github.com/0ld-dancer/dq_projects/blob/main/3.%20Exploring%20Ebay%20Car%20Sales%20Data/Exploring%20Ebay%20Car%20Sales%20Data.ipynb)
 
- I've been working with a dataset of used cars from the [German eBay classifieds](https://data.world/data-society/used-cars-data) in this guided project. The goal was to cleanse and examine this data in an attempt to find some connection between price and brand or mileage.
+ I've been working with a dataset of used cars from the [German eBay classifieds](https://data.world/data-society/used-cars-data) in this guided project. The goal was to cleanse and examine this data in an attempt to find some relationship between price and brand or mileage.
 
  The first project with the `numpy` and `pandas`
 
@@ -27,15 +27,29 @@ Here is [my account](https://app.dataquest.io/profile/3axap92) as well.
 
  In this project I've tried to find the best major according to future job hunting and salaries. tThe shares of women and men in different majors were also explored. The data set is provided by [American Community Survey](https://www.census.gov/programs-surveys/acs/).
  
- This project has a lot of plots built with `matplotlib`.
+ This project has a lot of plots built with the `matplotlib`.
 
 ### [5. Bachelors Degree Women-Men Gap (ENG)](https://github.com/0ld-dancer/dq_projects/blob/main/5.%20Bachelors%20Degree%20Women-Men%20Gap/gender_gap_plots.ipynb)
 
+This project explores some of the `matplotlib` features that improve visual aesthetics of plots. I've built plots that show the gap changes between men and women over the years for each degree. The data set was collected by [The Department of Education Statistics](https://www.kaggle.com/sureshsrinivas/bachelorsdegreewomenusa).
+
 ### [6. Clean and Analyze Employee Exit Surveys (ENG)](https://github.com/0ld-dancer/dq_projects/blob/main/6.%20Clean%20and%20Analyze%20Employee%20Exit%20Surveys/Clean%20And%20Analyze%20Employee%20Exit%20Surveys.ipynb)
+
+I've been working with the exit surveys from employees of [DETE](https://data.gov.au/dataset/ds-qld-fe96ff30-d157-4a81-851d-215f2a0fe26d/details?q=exit%20survey) and [TAFE](https://data.gov.au/dataset/ds-qld-89970a3b-182b-41ea-aea2-6f9f17b5907e/details?q=exit%20survey). I've tried to find some relationship between dissatisfaction and employee experience.
+
+Libraries: `pandas`, `numpy` and `matplotlib`. 
 
 ### [7. Analyzing NYC High School Data (ENG)](https://github.com/0ld-dancer/dq_projects/blob/main/7.%20Analyzing%20NYC%20High%20School%20Data/Analyzing%20NYC%20High%20School%20Data.ipynb)
 
+This project explores possible correlation between SAT score and the many different factors (like race or gender) scattered across the [files](https://www.kaggle.com/samaxtech/nyc-high-school-data).
+
+Libraries: `pandas`, `numpy`, `re` and `matplotlib`.
+
 ### [8. Star Wars Survey (ENG)](https://github.com/0ld-dancer/dq_projects/blob/main/8.%20Star%20Wars%20Survey/Star%20Wars%20Survey.ipynb)
+
+I've been working with the [FiveThirtyEight's survey](https://github.com/fivethirtyeight/data/tree/master/star-wars-survey) about Star Wars franchise in this project. I analyzed the rating of the episodes, for example, paired with fan status or gender. Also confirmed the favorite episode - "The Empire Strikes Back".
+
+Libraries: `pandas`, `numpy` and `matplotlib`.
 
 ### [9. Popular Data Science Questions (ENG)](https://github.com/0ld-dancer/dq_projects/blob/main/9.%20Popular%20Data%20Science%20Questions/Popular%20Data%20Science%20Questions.ipynb)
 
