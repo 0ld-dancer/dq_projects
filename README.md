@@ -53,15 +53,35 @@ Libraries: `pandas`, `numpy` and `matplotlib`.
 
 ### [9. Popular Data Science Questions (ENG)](https://github.com/0ld-dancer/dq_projects/blob/main/9.%20Popular%20Data%20Science%20Questions/Popular%20Data%20Science%20Questions.ipynb)
 
+In this scenario, I've been working for a company that creates data science content. The goal was to find what people want to learn about in data science by analyzing posts on **StackOverflow**. The data was received from [Stack Exchange Data Explorer (SEDE)](https://data.stackexchange.com/stackoverflow/query/new)
+
+Libraries: `pandas` and `matplotlib`.
+
 ### [10. Predicting Car Prices (ENG)](https://github.com/0ld-dancer/dq_projects/blob/main/10.%20Predicting%20Car%20Prices/10.%20Predicting%20Car%20Prices.ipynb)
 
+I've been predicting a car's market price by its attributes using [`KNeighborsRegressor()`](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html) only in this project. I've implemented simple hyperameter variation and visualized the results.
+The data set was provided by [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php).
+
+Libraries: `pandas`, `numpy`, `matplotlib` and `sklearn`
+
 ### [11. Predicting House Sale Prices (ENG)](https://github.com/0ld-dancer/dq_projects/blob/main/11.%20Predicting%20House%20Sale%20Prices/11.%20Predicting%20House%20Sale%20Prices.ipynb)
+
+I've developed the pipeline for linear regression modeling on [data](https://www.kaggle.com/hamzajabbarkhan/ames-housingtsv) for the city Ames, Iowa from, 2006 to 2010. It consist of three functions:
+* `transorm_features()` - removes `NaN` values, creates new and drops useless columns, create dummies, etc.
+* `select_features()` - selects hig-variance feature only, then finds k best from them.
+*  `train_and_test()` - splits original data and implements k-fold cross validation.
+
+Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn` and `sklearn`.
 
 ### [12. Predicting the stock market](https://github.com/0ld-dancer/dq_projects/tree/main/12.%20Predicting%20the%20stock%20market)
 
 Basic script.
 
 ### [13. Predicting Bike Rentals (ENG)](https://github.com/0ld-dancer/dq_projects/blob/main/13.%20Predicting%20Bike%20Rentals/13.%20Predicting%20Bike%20Rentals.ipynb)
+
+I've been working with the [data](http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset) on the number of bicycles people rent by the hour in the Washington, D.C in this project. The goal was to apply different ML methods (**linear regression, desition tree and random forest**) to track RMSE evaluation.
+
+Libraries: `pandas`, `numpy`, `matplotlib` and `sklearn`.
 
 ### [14. A Handwritten Digits Classifier (ENG)](https://github.com/0ld-dancer/dq_projects/blob/main/14.%20A%20Handwritten%20Digits%20Classifier/digits_classifier.ipynb)
 
