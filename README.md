@@ -119,4 +119,4 @@ I've been working with data from the [CIA World Factbook](https://www.cia.gov/th
 
 ### [2. Answering Business Questions using SQL (ENG)](https://github.com/0ld-dancer/dq_projects/blob/main/SQL%20projects/2.%20Answering%20Business%20Questions%20using%20SQL/chinook_store.ipynb)
 
-I've been working with the Chinook database (digital music shop) that is provided as a SQLite in this project. I've analyzed the data and found most popular music genres, best sales agent, top sales countries and etc. Then I used the results to make some recommendations.
+I've been working with the Chinook database (digital music shop) that is provided by SQLite in this project. I've analyzed the data and found most popular music genres, best sales agent, top sales countries and etc. Then I used the results to make some recommendations.
